@@ -1,0 +1,81 @@
+{
+  "personalInfo": {
+    "nombre": "Javier Montenegro",
+    "titulo": "Arquitecto de Soluciones Cloud Senior",
+    "contacto": {
+      "email": "j.montenegro.cloud@ejemplo.com",
+      "linkedin": "linkedin.com/in/javiermontenegro",
+      "ubicacion": "Monterrey, México"
+    },
+    "perfil": "Profesional de TI con más de 10 años de experiencia en el diseño, implementación y mantenimiento de infraestructuras escalables en la nube. Especialista en migraciones complejas, optimización de costos y arquitecturas sin servidor. Apasionado por el liderazgo técnico, la automatización y la mentoría de equipos ágiles de alto rendimiento, con un enfoque constante en entregar valor de negocio mediante la adopción de tecnologías de vanguardia y las mejores prácticas de seguridad."
+  },
+  "experiencia": [
+    {
+      "rol": "Líder de Arquitectura Cloud",
+      "empresa": "TechNova Solutions",
+      "fecha": "Marzo 2020 - Presente",
+      "descripcion": "Diseño y supervisión de la arquitectura técnica para múltiples plataformas empresariales de alto tráfico. Lideré la migración del 100% de la infraestructura local hacia la nube, logrando una reducción del 35% en costos operativos anuales. Diseño e implementación de canalizaciones CI/CD avanzadas y desarrollo de estrategias de recuperación ante desastres con RTO de menos de 15 minutos."
+    },
+    {
+      "rol": "Ingeniero de Software Senior",
+      "empresa": "Fintech Global Services",
+      "fecha": "Junio 2016 - Febrero 2020",
+      "descripcion": "Desarrollo de microservicios backend utilizando Go y Node.js para procesar transacciones financieras en tiempo real y alta disponibilidad. Optimización profunda de consultas en bases de datos relacionales, mejorando los tiempos de respuesta del sistema central en un 40%. Dirección técnica de un escuadrón de 5 desarrolladores bajo el marco de trabajo Scrum."
+    },
+    {
+      "rol": "Desarrollador Full Stack",
+      "empresa": "Innova Web Agency",
+      "fecha": "Enero 2013 - Mayo 2016",
+      "descripcion": "Creación de aplicaciones web interactivas para clientes del sector retail internacional. Construcción de interfaces dinámicas y responsivas, apoyadas por APIs RESTful. Reducción sustancial de la deuda técnica en proyectos heredados mediante la integración de pruebas automatizadas y refactorización continua del código base."
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Maestría en Tecnologías de la Información",
+      "institucion": "Universidad Tecnológica Metropolitana",
+      "fecha": "2015 - 2017"
+    },
+    {
+      "titulo": "Ingeniería en Ciencias de la Computación",
+      "institucion": "Instituto Politécnico Nacional",
+      "fecha": "2008 - 2012"
+    }
+  ],
+  "certificaciones": [
+    {
+      "nombre": "AWS Certified Solutions Architect – Professional",
+      "emisor": "Amazon Web Services",
+      "fecha": "2021"
+    },
+    {
+      "nombre": "Certified Kubernetes Administrator (CKA)",
+      "emisor": "Cloud Native Computing Foundation",
+      "fecha": "2019"
+    },
+    {
+      "nombre": "Scrum Master Certified",
+      "emisor": "Scrum Alliance",
+      "fecha": "2018"
+    }
+  ],
+  "habilidades": [
+    "AWS",
+    "Google Cloud Platform",
+    "Kubernetes",
+    "Docker",
+    "Arquitectura de Microservicios",
+    "Go",
+    "Node.js",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Terraform",
+    "Integración Continua (CI/CD)",
+    "Metodologías Ágiles"
+  ],
+  "idiomas": [
+    "Español (Nativo)",
+    "Inglés (C1 - Avanzado)",
+    "Portugués (B2 - Intermedio Alto)"
+  ]
+}
