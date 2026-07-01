@@ -2,21 +2,21 @@
 
 A dynamic and automated CV generator built with **React**, **TypeScript**, and **Node.js**. This tool automatically builds a polished, professional Curriculum Vitae in PDF format by fetching data directly from a structured JSON configuration file.
 
-## 🚀 Features
+##  Features
 * **Centralized Data:** Manage and update all your profile information from a single, independent data file (`data/profile.json`).
 * **Native PDF Rendering:** Uses `@react-pdf/renderer` to build a clean layout rendered directly through React components.
 * **Strict Typing:** Built entirely with TypeScript to ensure type safety, minimize runtime errors, and improve code scalability.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 * **React**
 * **TypeScript**
 * **Node.js** (executed in development via `ts-node`)
 * **@react-pdf/renderer**
 
-## 📋 Prerequisites
+##  Prerequisites
 Before running this project, ensure you have **Node.js** installed on your machine.
 
-## 🔧 Installation and Usage
+##  Installation and Usage
 
 1. Install the required project dependencies:
    npm install
@@ -28,3 +28,4 @@ Before running this project, ensure you have **Node.js** installed on your machi
    npm run generar
 
 The resulting PDF will be automatically created in the configured path: `output/mi_cv.pdf`.
+Developed by Felipe Luis Carlos (CIA/Carlos)
