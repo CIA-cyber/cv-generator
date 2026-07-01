@@ -28,4 +28,5 @@ Before running this project, ensure you have **Node.js** installed on your machi
    npm run generar
 
 The resulting PDF will be automatically created in the configured path: `output/mi_cv.pdf`.
+
 Developed by Felipe Luis Carlos (CIA/Carlos)
